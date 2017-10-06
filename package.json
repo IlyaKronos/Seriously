@@ -1,0 +1,19 @@
+{
+  "name": "seriously",
+  "version": "1.0.0",
+  "description": "Lightweight Async/Await (Promises) task scheduler and rate limiter for node.js v7+",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlyaKronos/Seriously.git"
+  },
+  "author": "Ilya Chesnokov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlyaKronos/Seriously/issues"
+  },
+  "homepage": "https://github.com/IlyaKronos/Seriously#readme"
+}
