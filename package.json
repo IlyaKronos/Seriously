@@ -2,7 +2,7 @@
   "name": "seriously",
   "version": "1.0.0",
   "description": "Lightweight Async/Await (Promises) task scheduler and rate limiter for node.js v7+",
-  "main": "test.js",
+  "main": "lib/seriously.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
